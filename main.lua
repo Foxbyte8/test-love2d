@@ -3,7 +3,7 @@ function love.load() -- loads anything need before running the game
 end
 
 function love.update(dt) -- updates the program every frame
-    playerMovement(dt)
+    playerMovement(dt) -- test
 end
 
 function love.draw() -- draws to the display
